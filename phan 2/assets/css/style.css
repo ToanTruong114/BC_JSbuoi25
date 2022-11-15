@@ -1,0 +1,17 @@
+@media only screen and (min-width: 1200px) {
+    .container {
+        max-width: 1200px;
+    }
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.img {
+    width: 100%;
+}
+
+button {
+    margin-bottom: 4px;
+}
